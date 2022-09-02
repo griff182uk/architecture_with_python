@@ -2,14 +2,18 @@
 
 ## [Chapter 01 Domain Model Exercise](https://github.com/cosmicpython/code/tree/chapter_01_domain_model_exercise)
 
-## Code
+## Bash Code
 
-```
+```bash
 python -m venv venv
 
 venv\scripts\activate
 
 venv\scripts\deactivate
+```
+
+```bash
+pytest unit_tests_batches.py
 ```
 
 ### TDD
