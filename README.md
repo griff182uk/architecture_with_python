@@ -14,6 +14,9 @@ venv\scripts\deactivate
 
 ```bash
 pytest unit_tests_batches.py
+
+## use this when running in nested folders
+python -m pytest tests\unit\test_services.py
 ```
 
 ### TDD
