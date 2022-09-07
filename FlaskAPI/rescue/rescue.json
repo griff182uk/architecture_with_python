@@ -1,0 +1,50 @@
+{
+    "guid": "e9ac950f-5779-4c9b-ad2c-0abeef270cf0",
+    "name": "Blue Cross",
+    "adch_status": "Full",
+    "website": {
+        "guid": "b1524ed1-d6ee-4e9f-968a-55513de9ceda",
+        "address": "www.bluecross.org.uk",
+        "urls": {
+            "dogs": "https://www.bluecross.org.uk/rehome/dog",
+            "dog": "https://www.bluecross.org.uk/pet/{name}-{number}",
+            "cats": "https://www.bluecross.org.uk/rehome/cat",
+            "cat": "https://www.bluecross.org.uk/pet/{name}-{number}",
+            "contact": ""
+        }
+    },
+    "contact": {
+        "email": "",
+        "telephone": "",
+        "address": "Shilton Road, Burford, Oxfordshire",
+        "postcode": "OX18 4PF",
+        "lat": "",
+        "lng": ""
+    },
+    "kennels": [
+        {
+            "guid": "43a23f56-c7e8-4ea8-b312-98cc672ba517",
+            "name": "Blue Cross Bromsgrove",
+            "contact": {
+                "email": "bromsgrove@bluecross.org.uk",
+                "telephone": "0300 777 1460",
+                "address": "Wildmoor Lane, Catshill, Bromsgrove",
+                "postcode": "B61 0R",
+                "lat": "",
+                "lng": ""
+            }
+        },
+        {
+            "guid": "aa0f2fb6-92da-47b8-a8e8-5058a7e73f8a",
+            "name": "Blue Cross Suffolk",
+            "contact": {
+                "email": "suffolk@bluecross.org.uk",
+                "telephone": "0300 777 1480",
+                "address": "Bourne Hill, Wherstead, Ipswich",
+                "postcode": "IP2 8NQ",
+                "lat": "",
+                "lng": ""
+            }
+        }
+    ]
+}
