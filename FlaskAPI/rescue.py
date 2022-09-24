@@ -34,8 +34,10 @@ def rescue():
 
 
     if request.method == 'POST':
+
+    
    
-        with open('rescue/rescue-1.json', 'w') as outfile:
+      with open('rescue/rescue-1.json', 'w') as outfile:
             json.dump(request.json, outfile)
     content = 'Rescue-1 Added'
     return content, status.HTTP_200_OK

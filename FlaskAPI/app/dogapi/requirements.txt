@@ -1,0 +1,6 @@
+flask
+flask_restful
+flask_api
+jsonify
+http.client
+flask_expects_json
